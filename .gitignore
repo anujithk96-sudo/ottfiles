@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+cookies/
+output/
+logs/
+*.mkv
+*.mp4
